@@ -1,5 +1,11 @@
 hi, im mikah
 
-unprofessional reverse engineer and modder from finland. mostly interested in game internals, low-level c++ and unreal engine stuff.
+im an unprofessional reverse engineer and modder mostly interested in game internals, low-level c++ stuff, and a silly block game.
 
-most of my work is private but working on changing that.
+i spend most of my time figuring out how software works rather than just using it. memory layouts, binaries, game engines more interesting then playing the game.
+
+most repos are private.
+
+you might know me from that one thing. probably not.
+
+i live on the internet, but sometimes finland drags me back.
