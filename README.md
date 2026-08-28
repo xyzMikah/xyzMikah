@@ -9,4 +9,3 @@ most repos are private.
 you might know me from that one thing. probably not.
 
 i live on the internet, but sometimes finland drags me back.
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xyzMikah&layout=compact&theme=dark)](https://github.com/xyzMikah/xyzMikah)
