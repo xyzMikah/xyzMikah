@@ -10,8 +10,9 @@ you might know me from that one thing. probably not.
 
 i live on the internet, but sometimes finland drags me back.
 
-<div align="center">
+<div align="left">
   <img src="https://www.mk3smp.eu/api/langs?username=xyzMikah&width=480" alt="GitHub language stats"/>
 </div>
 
-<img src="https://www.mk3smp.eu/api/langs?username=xyzMikah&width=480" alt="GitHub language stats" align="center"/>
+
+<img src="https://www.mk3smp.eu/api/langs?username=xyzMikah&width=480" alt="GitHub language stats" align="left"/>
