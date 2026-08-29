@@ -10,4 +10,4 @@ you might know me from that one thing. probably not.
 
 i live on the internet, but sometimes finland drags me back.
 
-<img src="https://www.mk3smp.eu/api/langs?username=xyzMikah&width=480" alt="GitHub language stats" align="left"/>
+<img src="https://www.mk3smp.eu/api/langs?username=xyzMikah&width=480" alt="GitHub language stats" align="center"/>
