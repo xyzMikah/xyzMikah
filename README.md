@@ -10,4 +10,6 @@ you might know me from that one thing. probably not.
 
 i live on the internet, but sometimes finland drags me back.
 
-![gitdna](https://gitdna-beryl.vercel.app/api/langs?username=xyzMikah&width=600)
+<div align="left">
+<img src="https://gitdna-beryl.vercel.app/api/langs?username=xyzMikah&width=420" width="420" />
+</div>
