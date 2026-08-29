@@ -9,3 +9,5 @@ most repos are private.
 you might know me from that one thing. probably not.
 
 i live on the internet, but sometimes finland drags me back.
+
+![gitdna](https://gitdna-beryl.vercel.app/api/langs?username=xyzMikah&width=600)
